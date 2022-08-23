@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm BJ the QA guy. 
+Please, feel free to contact me by https://t.me/Borolgine 
 
 <!--
 **Borolgine/Borolgine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
