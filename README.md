@@ -1,4 +1,5 @@
-# Hi there 👋
+#### Hi there 👋
+* * *
 I'm BJ the QA guy. 
 Please, feel free to contact me by https://t.me/Borolgine 
 
