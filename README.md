@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtMWJ2N2l2aHdnNWY3cWZmaDN6YWhtdDFxYm9lYTY3NXZzamhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" width="200"/>
 
-## My Tech Stack
+### My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
