@@ -3,7 +3,7 @@
 #### 😄 Welcome to my page
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtMWJ2N2l2aHdnNWY3cWZmaDN6YWhtdDFxYm9lYTY3NXZzamhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtMWJ2N2l2aHdnNWY3cWZmaDN6YWhtdDFxYm9lYTY3NXZzamhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" width="200"/>
 </div>
 <p ></p>
 
