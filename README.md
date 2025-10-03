@@ -38,4 +38,4 @@ I love tinkering with tools that make my workflow smoother! My go-to Markdown ed
 ![Fedora](https://img.shields.io/badge/Fedora-GNOME-%23294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### 📫 How to reach me
-[<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile)
+[<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/borisjacobinfo)
