@@ -29,7 +29,7 @@ As a QA Engineer, I focus on delivering robust software for oil & gas, fintech a
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 
-## Hobbies
+### Hobbies
 
 I love tinkering with tools that make my workflow smoother! My go-to Markdown editor is Obsidian, and I’m a big fan of Fedora GNOME for its sleek Linux experience. 🐧
 
