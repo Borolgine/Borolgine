@@ -1,18 +1,8 @@
 # Hi there, nice to see you! 👋
 
-#### 😄 Welcome to my page
+## 😄 Welcome to my page
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtMWJ2N2l2aHdnNWY3cWZmaDN6YWhtdDFxYm9lYTY3NXZzamhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" width="200"/>
-</div>
-<p ></p>
-
-#### 🔭 Things I work with
-
-### 🔭 My Tech Stack
-
-## Testing
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-100%25-yellow?style=for-the-badge&logo=jest&logoColor=black)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdtMWJ2N2l2aHdnNWY3cWZmaDN6YWhtdDFxYm9lYTY3NXZzamhyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fzyOvQ7jJplVHhz895/giphy.gif" width="200"/>
 
 # My Tech Stack
 
@@ -34,28 +24,5 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=black)
 
-
-
-
-
-<!-- #### My Contacts -->
-#### 📫 How to reach me
-<a href="https://www.linkedin.com/in/borisjacobinfo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
-
-
-<!--
-**Borolgine/Borolgine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+[<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/your-profile)
