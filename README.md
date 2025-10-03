@@ -8,6 +8,12 @@
 <p ></p>
 
 #### 🔭 Things I work with
+
+# My Tech Stack
+
+## Testing
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-100%25-yellow?style=for-the-badge&logo=jest&logoColor=black)
+
 <p align="left">
 <img src="https://img.shields.io/badge/Playwright-v1.45-%232EAD33?style=for-the-badge&#x26;logo=playwright&#x26;logoColor=white" alt="Playwright">  
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
