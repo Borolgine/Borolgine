@@ -7,8 +7,9 @@
 </div>
 <p ></p>
 
-#### 🔭 Things I Work with
+#### 🔭 Things I work with
 <p align="left">
+<img src="https://img.shields.io/badge/Playwright-v1.45-%232EAD33?style=for-the-badge&#x26;logo=playwright&#x26;logoColor=white" alt="Playwright">  
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
